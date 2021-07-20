@@ -1,4 +1,4 @@
-# Cpp-Templates
+# C++ Templates
 Here you can find two simple projects which use templates.
 
 
